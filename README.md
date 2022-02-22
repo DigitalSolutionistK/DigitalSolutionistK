@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DigitalSolutionistK
-- 👀 I’m interested in Web Development and APK coding.
+- 👀 I’m interested in Web Development and API coding.
 - 🌱 I’m currently learning HTML, Java and CSS
 - 💞️ I’m looking to collaborate on Web Developing.
 - 📫 How to reach me: coming soon!
